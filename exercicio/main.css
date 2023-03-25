@@ -1,0 +1,37 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    display: inline;
+}
+
+header{
+    background-color: lightgray;
+}
+#cabecalho .nav .nav-link.active{
+    background-color:  rgb(243, 242, 242);
+    color: black;
+}
+
+.color-sec {
+    background-color: rgb(243, 242, 242);
+}
+
+#cabecalho .nav .nav-link {
+    color: black;
+}
+
+#contato ul li{
+    display: inline;
+}
+
+#contato ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.validate {
+    color: red;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 8px;
+}
